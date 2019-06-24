@@ -12,8 +12,8 @@
 
 - 第一期：数字货币交易框架 - thenextquant
     - [pdf文档](pdf/第一期：数字货币交易框架%20-%20thenextquant.pdf)
-    - [视频录像](https://v.youku.com/v_show/id_XNDIzMTY3MjY5Mg==.html?spm=a2hzp.8244740.0.0)
+    - [视频录像](https://v.qq.com/x/page/d08871lfv9v.html)
 
 - 第二期：TheNextQuant使用入门
     - [pdf文档](pdf/第二期：TheNextQuant使用入门.pdf)
-    - [视频录像]()
+    - [视频录像](https://v.qq.com/x/page/x08875jq0xf.html)
