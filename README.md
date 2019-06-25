@@ -5,7 +5,6 @@
 
 - 斗鱼房间号: 7055465
 - [斗鱼直播地址](https://www.douyu.com/7055465)
-- [优酷视频主页](https://i.youku.com/digitalroadgroup)
 
 
 #### 以下是我们每期直播的相关材料和视频录像
@@ -17,3 +16,8 @@
 - 第二期：TheNextQuant使用入门
     - [pdf文档](pdf/第二期：TheNextQuant使用入门.pdf)
     - [视频录像](https://v.qq.com/x/page/x08875jq0xf.html)
+
+- 第三期：OKEx-Binance现货搬砖套利
+    - [pdf文档](pdf/第三期：OKEx-Binance现货搬砖套利.pdf)
+    - [OKEx-Binance现货搬砖套利(上)](https://v.qq.com/x/page/c0889ywkdrw.html)
+    - [OKEx-Binance现货搬砖套利(下)](https://v.qq.com/x/page/x0889i6okwh.html)
