@@ -22,5 +22,10 @@
     - [OKEx-Binance现货搬砖套利(上) 视频](https://v.qq.com/x/page/c0889ywkdrw.html)
     - [OKEx-Binance现货搬砖套利(下) 视频](https://v.qq.com/x/page/x0889i6okwh.html)
 
-- 第四期：基于Thenextquant的Deribit交易所跨期套利
+- 第四期：Deribit交易所跨期套利
+    - [Deribit交易所跨期套利 PDF文档](pdf/第四期：Deribit交易所跨期套利分享.pdf)
+    - [Deribit交易所跨期套利(上) 视频](https://v.qq.com/x/page/e0890bejdxi.html)
+    - [Deribit交易所跨期套利(下) 视频](https://v.qq.com/x/page/k08904avqhn.html)
+
+- 第五期：高效使用行情数据
     - 即将推出 ...
