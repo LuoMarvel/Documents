@@ -28,4 +28,8 @@
     - [Deribit交易所跨期套利(下) 视频](https://v.qq.com/x/page/k08904avqhn.html)
 
 - 第五期：高效使用行情数据
+    - [第五期：高效使用行情数据 PDF文档](pdf/第五期：高效使用行情数据.pdf)
+    - [第五期：高效使用行情数据 视频](https://v.qq.com/x/page/s08949g8k3v.html)
+
+- 第六期：高效使用资产数据
     - 即将推出 ...
