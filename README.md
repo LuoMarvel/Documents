@@ -28,12 +28,16 @@
     - [Deribit交易所跨期套利(下) 视频](https://v.qq.com/x/page/k08904avqhn.html)
 
 - 第五期：高效使用行情数据
-    - [第五期：高效使用行情数据 PDF文档](pdf/第五期：高效使用行情数据.pdf)
-    - [第五期：高效使用行情数据 视频](https://v.qq.com/x/page/p0894grr97h.html)
+    - [高效使用行情数据 PDF文档](pdf/第五期：高效使用行情数据.pdf)
+    - [高效使用行情数据 视频](https://v.qq.com/x/page/p0894grr97h.html)
 
 - 第六期：高效使用资产数据
-    - [第六期：高效使用资产数据 PDF文档](pdf/第六期：高效使用资产数据.pdf)
-    - [第六期：高效使用资产数据 视频](https://v.qq.com/x/page/t0896gw0oa2.html)
+    - [高效使用资产数据 PDF文档](pdf/第六期：高效使用资产数据.pdf)
+    - [高效使用资产数据 视频](https://v.qq.com/x/page/t0896gw0oa2.html)
 
-- 第六期：SDK底层模块⾼高级⽤用法
+- 第七期：SDK底层模块⾼级用法
+    - [第七期：SDK底层模块高级用法 PDF文档](/pdf/第七期：SDK底层模块高级用法.pdf)
+    - [第七期：SDK底层模块高级用法 视频](https://v.qq.com/x/page/b0900r8do1h.html)
+
+- 第八期：开发⼀一套回测系统
     - 即将推出 ...
